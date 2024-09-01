@@ -2,6 +2,7 @@
 # Advanced Digital Clock in Python
 ---
 [In C script](#)
+
 ![Clock Logo](logo.svg)
 
 ---
@@ -109,6 +110,6 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](#) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mdriyadkhan585/advanced-digital-clock?tab=MIT-1-ov-file) file for more details.
 
 ---
