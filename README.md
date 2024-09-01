@@ -1,7 +1,7 @@
 
 # Advanced Digital Clock in Python
 ---
-[In C script](#)
+[In C script](https://github.com/mdriyadkhan585/advanced-digital-clock-C)
 
 ![Clock Logo](logo.svg)
 
